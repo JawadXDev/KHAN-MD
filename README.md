@@ -17,7 +17,7 @@ KHAN-MD BY JawadTechX 💜
 ---
 
 <p align="center">
-  <a href="https://github.com/XDTechPro"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/XdTechPro"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -25,17 +25,17 @@ KHAN-MD BY JawadTechX 💜
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="XDTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XDTechPro}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/XDTechPro/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/XdTechPro/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/XDTechPro/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/XdTechPro/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -63,7 +63,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/XDTechPro/KHAN-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/XdTechPro/KHAN-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
 > Deploy on TaikDrove
@@ -79,7 +79,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=XDTechPro/KHAN-MD&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=XdTechPro/KHAN-MD&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
 </p>
 
 > View Workflow Codes
